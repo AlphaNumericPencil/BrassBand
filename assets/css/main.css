@@ -4017,12 +4017,12 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-image: -moz-linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/tubaGuy.jpg");
-		background-image: -webkit-linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/tubaGuy.jpg");
-		background-image: -ms-linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/tubaGuy.jpg");
-		background-image: linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/tubaGuy.jpg");
+		background-image: -moz-linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/group.jpg");
+		background-image: -webkit-linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/group.jpg");
+		background-image: -ms-linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/group.jpg");
+		background-image: linear-gradient(to top, rgba(71, 46, 104, 0.9), rgba(71, 46, 104, 0.9)), url("../../images/group.jpg");
 		background-attachment: fixed;
-		background-position: center center;
+		background-position: center 10%;
 		background-size: cover;
 		color: #fff;
 		padding: 16em 3em;
